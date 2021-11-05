@@ -16,6 +16,7 @@
     $is_menu_info = $url=='/apple/menu';
     $is_image_t = $url =='/tomato/image';
     $is_info_t = $url=='/tomato/info';
+    
     $is_menu_info_t = $url=='/tomato/menu';
 ?>
 
